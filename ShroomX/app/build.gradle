@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "ch.usi.inf.mc.shroomx"
-        minSdkVersion 15
+        minSdkVersion 'API 21: Android 8.0 (O)'
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -27,10 +27,12 @@ android {
             path "CMakeLists.txt"
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
