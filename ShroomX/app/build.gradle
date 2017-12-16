@@ -1,11 +1,18 @@
 apply plugin: 'com.android.application'
 
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "ch.usi.inf.mc.shroomx"
-        minSdkVersion 'API 21: Android 8.0 (O)'
+        minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -39,5 +46,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:26.+'
-    testCompile 'junit:junit:4.12'
+    compile 'org.tensorflow:tensorflow-android:+'
+    testCompile 'junit:junit:4.12'\
 }
