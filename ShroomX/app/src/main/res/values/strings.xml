@@ -1,35 +1,3 @@
 <resources>
-    <string name="app_name">Shroom X</string>
-    <string name="action_settings">Settings</string>
-    <string name="take_pic">Take Picture</string>
-    <string name="shake">Shake to Agree to Terms &#38; Conditions</string>
-
-    <string name="terms_conditions">1. Terms Conditions for mobile apps
-2. A Terms and Conditions agreement (1) is the legal backbone of the relationship between your mobile app and your users. (1) Link to https://termsfeed.com/terms-conditions/generator/
-3. It doesn\’t matter if your mobile app is running on iOS or Android.
-4. Terms and Conditions for iOS app Apple has a standard EULA agreement (2) that binds users when they download your iOS app. You can choose to add your own agreement instead of Apple\'s default one to extend it with more clauses. (2) Link to https://termsfeed.com/blog/apple-default-eula/
-5. Terms and Conditions for Android app (3) Link to https://play.google.com/about/developer-distribution-agreement.html#showlanguages The Distribution Agreement of Google Play Developer (3) requires that you grant your users a “non-exclusive, worldwide, and perpetual license to perform, display, and use the Product on the Device.\” You could cover this in the End-User License Agreement (EULA) or cover it in your own Terms and Conditions agreement + other clauses that are useful for your Android app.
-6. Why your app needs a Terms  Conditions (4) (4) Link to https://termsfeed.com/blog/terms-conditions-mobile-apps/
-7. You will be protected against abuses by users, such as copyright infringement, spamming of other users, and general misuse of your app, You can require arbitration over litigation (5), and even select the governing law to be used in the event of a legal issue, ... (5) Link to https://termsfeed.com/blog/arbitration-clause-terms-conditions/
-8. ... continue You maintain the right to terminate user\’s accounts at any time you may need or want to, and Your liability to users will be limited.
-9. Think of your Terms and Conditions agreement as the legal agreement where: You maintain your rights to exclude users from your app in the event that they abuse your app You maintain your legal rights against potential abusers of your app And so on. 1 2
-10. A Terms and Conditions is not required by law. Most mobile apps would want and need this kind of agreement, but especially so those: Mobile apps are part of a SaaS app Mobile apps with user-generated content Mobile apps that are part of an ecommerce store
-11. Terms and Conditions for simple apps
-12. Some mobile apps are simple. These apps tend to have more basic Terms and Conditions than the other types of apps.
-13. Common clauses for a Terms and Conditions for simple mobile apps include: Retention of Rights of Ownership/Ban on Infringement Retention of the Right to Change the App at Any Time Restriction on App Abuses Disclaimer of Warranties and Liabilities Retention of Right to Terminate/Ban Users
-14. Have a look at an example of a \“Right to Terminate\” clause.
-15. Terms and Conditions for mobile app + SaaS
-16. Having a Terms and Conditions in place for a SaaS app (6) is important: The app owner can maintain ownership of all aspects of the app The app owner can restrict certain abusive behaviors by those accessing the software ... (6) Link to https://termsfeed.com/blog/terms-use-privacy-policy-saas-applications/
-17. ... continue The app owner can limit his liability to the user The app owner and retain the right to terminate a user’s account if need be
-18. Terms and Conditions for mobile app + ecommerce
-19. If you sell commerce through your app, you will want Terms and Conditions (7) in place to: Dictate how different aspects of transactions will be handled Inform users about acceptable payment terms (8) ... (7) Link to https://termsfeed.com/blog/terms-conditions-ecommerce-stores/ (8) Link to https://termsfeed.com/blog/payment-terms-terms-conditions/
-20. ... continue Inform users about your shipping policies Inform users about your returns and refunds policies. You can also do this through a separate agreement, called Return/Refund Policy (9), that you can reference in the Terms  Conditions agreement. (9) Link to http://termsfeed.com/return-refund-policy/generator/
-21. Examples of useful clauses for a Terms and Conditions
-22. Fees, Payments, and Subscription Information
-23. Copy Retention
-24. Cancelling Your Service
-25. Ownership
-26. DMCA Section
-27. Limit What Users Can Do
-28. Learn more about Terms and Conditions for mobile apps at https://termsfeed.com/blog/terms-conditions-mobile-apps/</string>
+    <string name="app_name">ShroomX</string>
 </resources>
