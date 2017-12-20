@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/sergiybokhnyak/.android/build-cache/b8a4042e53cfed10df991be83a7ce70d2cb27713/output/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 76,
+                        "endOffset": 361
+                    }
+                }
+            }
+        ]
+    }
+]

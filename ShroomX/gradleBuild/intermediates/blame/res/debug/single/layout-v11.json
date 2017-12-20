@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

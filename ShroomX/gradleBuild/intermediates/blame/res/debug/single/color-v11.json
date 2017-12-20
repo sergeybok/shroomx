@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

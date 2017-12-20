@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

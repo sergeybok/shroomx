@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/sergiybokhnyak/.android/build-cache/b8a4042e53cfed10df991be83a7ce70d2cb27713/output/res/values-w600dp/values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/sergiybokhnyak/.android/build-cache/b8a4042e53cfed10df991be83a7ce70d2cb27713/output/res/values-w600dp/values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 54,
+                        "endOffset": 404
+                    }
+                }
+            }
+        ]
+    }
+]

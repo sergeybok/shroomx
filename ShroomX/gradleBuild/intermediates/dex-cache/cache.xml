@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_bac4a2750e08bfd0f8c9227b0c02527a867ec7c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/a85c1032672739f48e1d13cd076171849d327a54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_84ea9a341bcc6ca28b36c740eefdc94931d6fc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/d7659570ecefc5a62103a16ace40fe3599643e08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_78e78099b27e44b86c62b972333df81be49c9f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/ede29ff48264f1be43bb6c00730acd23cdecc693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_1a3055878ebad5ba66f24d5ee0ed88d013869775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/48a2dde633c3970b3a21bc5a73652578218c93b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_83b03ecfc711818efcb9c72854daa57d8ef4e4f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_11c3d20886fee8e2389eaa322cfe10c744fd1bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/b69c384141431777c582476a69e36f98be5affa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_55a682855e8feb68f3d69c1f162d1d158f32ad2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/04d338bcca5bae166882219262eb1d9f6a5d82b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_7e2dac7ad6e17dc3ec5eda9c4286e5c5753cdaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/6de7f1fb7314264bae37e7a8012e0994bcc7d0f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_824e18be11425105c0a71096245a55227b27602a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/d547d1f6e293612533f87617242b4717b62d5776/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_5ebe6277809dccacbd0da38543f288dd3a524f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/752aede8e4fbc0474bf5c55a98da1402770e293a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_734502e5d5ad05e9e3d890e97a7a723044cb53da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sergiybokhnyak/.android/build-cache/f373b8d54dc00953f07d0ec8ce8880e60a92464a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/sergiybokhnyak/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/pre-dexed/debug/classes_86e5e9b814c24e9a0e0ddb961364c8008612821a.jar" />
+    </item>
+
+</items>
